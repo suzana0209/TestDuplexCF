@@ -1,0 +1,10 @@
+C:\Users\Genguša\Desktop\JebenaTestApp\Client\bin\Debug\Client.exe.config
+C:\Users\Genguša\Desktop\JebenaTestApp\Client\bin\Debug\Client.exe
+C:\Users\Genguša\Desktop\JebenaTestApp\Client\bin\Debug\Client.pdb
+C:\Users\Genguša\Desktop\JebenaTestApp\Client\bin\Debug\Contract.dll
+C:\Users\Genguša\Desktop\JebenaTestApp\Client\bin\Debug\Contract.pdb
+C:\Users\Genguša\Desktop\JebenaTestApp\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Genguša\Desktop\JebenaTestApp\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Genguša\Desktop\JebenaTestApp\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Genguša\Desktop\JebenaTestApp\Client\obj\Debug\Client.exe
+C:\Users\Genguša\Desktop\JebenaTestApp\Client\obj\Debug\Client.pdb

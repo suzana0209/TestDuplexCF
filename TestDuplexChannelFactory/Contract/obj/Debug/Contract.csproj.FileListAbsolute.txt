@@ -1,0 +1,6 @@
+C:\Users\Genguša\Desktop\JebenaTestApp\Contract\bin\Debug\Contract.dll
+C:\Users\Genguša\Desktop\JebenaTestApp\Contract\bin\Debug\Contract.pdb
+C:\Users\Genguša\Desktop\JebenaTestApp\Contract\obj\Debug\Contract.csprojResolveAssemblyReference.cache
+C:\Users\Genguša\Desktop\JebenaTestApp\Contract\obj\Debug\Contract.csproj.CoreCompileInputs.cache
+C:\Users\Genguša\Desktop\JebenaTestApp\Contract\obj\Debug\Contract.dll
+C:\Users\Genguša\Desktop\JebenaTestApp\Contract\obj\Debug\Contract.pdb

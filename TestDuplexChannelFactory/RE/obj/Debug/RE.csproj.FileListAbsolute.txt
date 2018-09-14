@@ -1,0 +1,10 @@
+C:\Users\Genguša\Desktop\JebenaTestApp\RE\bin\Debug\RE.exe.config
+C:\Users\Genguša\Desktop\JebenaTestApp\RE\bin\Debug\RE.exe
+C:\Users\Genguša\Desktop\JebenaTestApp\RE\bin\Debug\RE.pdb
+C:\Users\Genguša\Desktop\JebenaTestApp\RE\bin\Debug\Contract.dll
+C:\Users\Genguša\Desktop\JebenaTestApp\RE\bin\Debug\Contract.pdb
+C:\Users\Genguša\Desktop\JebenaTestApp\RE\obj\Debug\RE.csprojResolveAssemblyReference.cache
+C:\Users\Genguša\Desktop\JebenaTestApp\RE\obj\Debug\RE.csproj.CoreCompileInputs.cache
+C:\Users\Genguša\Desktop\JebenaTestApp\RE\obj\Debug\RE.csproj.CopyComplete
+C:\Users\Genguša\Desktop\JebenaTestApp\RE\obj\Debug\RE.exe
+C:\Users\Genguša\Desktop\JebenaTestApp\RE\obj\Debug\RE.pdb
